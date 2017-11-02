@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">AspectJTest</string>
+
+    <item name="single_click_check" type="id" />
+</resources>
